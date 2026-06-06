@@ -1,1 +1,2 @@
 learning git
+Git is powerful
